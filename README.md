@@ -1,5 +1,3 @@
-Perfect 👌 Here’s a **polished `README.md`** draft for your project. You can copy this into your repo directly:
-
 ````markdown
 # 📅 Smart Email-to-Calendar Assistant
 
