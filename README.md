@@ -119,27 +119,6 @@ Agenda: Project status update.
 
 **Calendar Event Created ✅**
 
----
-
-## 💡 Future Improvements
-
-* [ ] Support multiple calendars
-* [ ] Email filtering by labels (e.g., `label:meetings`)
-* [ ] Handle recurring events
-* [ ] Deploy as a background service / Docker container
-
----
-
-## 📜 License
-
-MIT License © 2025 Your Name
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to improve.
-
 ```
 
 ---
